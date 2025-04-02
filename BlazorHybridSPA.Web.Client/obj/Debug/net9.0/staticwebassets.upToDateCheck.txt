@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web.Client\wwwroot\index.html
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web.Client\wwwroot\appsettings.json
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+wwwroot\images\foto1.jpg
+wwwroot\images\foto2.jpg
+wwwroot\images\foto3.jpg
+wwwroot\images\logo.jpg
+wwwroot\images\old\foto1.jpeg
+wwwroot\images\old\foto2.jpeg
+wwwroot\images\old\foto3.jpeg
+wwwroot\images\old\logo.png
+wwwroot\index.html

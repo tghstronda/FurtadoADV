@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\bootstrap\bootstrap.min.css.map
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\app.css
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\bootstrap\bootstrap.min.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\images\foto1.jpeg
+wwwroot\images\foto2.jpeg
+wwwroot\images\foto3.jpg

@@ -1,0 +1,4 @@
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA\wwwroot\index.html
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA\wwwroot\app.css
+wwwroot\app.css
+wwwroot\index.html

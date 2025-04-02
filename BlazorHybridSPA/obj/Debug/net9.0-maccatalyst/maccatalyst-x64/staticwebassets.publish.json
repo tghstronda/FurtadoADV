@@ -1,0 +1,5196 @@
+{
+  "Version": 1,
+  "Hash": "d902zfm+op3xm2/AnzQJY1HkIdiU8v8U8pa1E5sJjkQ=",
+  "Source": "BlazorHybridSPA",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\BlazorHybridSPA.Shared.csproj",
+      "Version": 2,
+      "Source": "BlazorHybridSPA.Shared",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorHybridSPA.Shared\\wwwroot",
+      "Source": "BlazorHybridSPA.Shared",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "Pattern": "**"
+    },
+    {
+      "Name": "BlazorHybridSPA\\wwwroot",
+      "Source": "BlazorHybridSPA",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\1wzbzw7ny7-8inm30yfxf.gz",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\1wzbzw7ny7-8inm30yfxf.gz"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\4oheefgz09-da95v2qkru.gz",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "app#[.{fingerprint=da95v2qkru}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7xjk2sttc7",
+      "Integrity": "JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\4oheefgz09-da95v2qkru.gz"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\9blpya3agl-js01t4bs5z.gz",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "BlazorHybridSPA.Shared#[.{fingerprint=js01t4bs5z}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "szvkwc7adx",
+      "Integrity": "+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\9blpya3agl-js01t4bs5z.gz"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\c8occnalmd-wxgamn16zq.gz",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "css/navbar#[.{fingerprint=wxgamn16zq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w08lfv0elo",
+      "Integrity": "4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\c8occnalmd-wxgamn16zq.gz"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\fdcjcjhdu3-6gzpyzhau4.gz",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\fdcjcjhdu3-6gzpyzhau4.gz"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\1wzbzw7ny7-8inm30yfxf.br",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b4a1wrn6r6",
+      "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\1wzbzw7ny7-8inm30yfxf.br"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\4oheefgz09-da95v2qkru.br",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "app#[.{fingerprint=da95v2qkru}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "9mqv5xoish",
+      "Integrity": "geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\4oheefgz09-da95v2qkru.br"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\9blpya3agl-js01t4bs5z.br",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "BlazorHybridSPA.Shared#[.{fingerprint=js01t4bs5z}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "x30tjs0sym",
+      "Integrity": "zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\9blpya3agl-js01t4bs5z.br"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\c8occnalmd-wxgamn16zq.br",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "css/navbar#[.{fingerprint=wxgamn16zq}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "rsutw1ib8z",
+      "Integrity": "K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\c8occnalmd-wxgamn16zq.br"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\fdcjcjhdu3-6gzpyzhau4.br",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2o883p7o84",
+      "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\fdcjcjhdu3-6gzpyzhau4.br"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "BlazorHybridSPA.Shared#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "js01t4bs5z",
+      "Integrity": "vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "css/navbar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxgamn16zq",
+      "Integrity": "vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\favicon.png",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto1.jpg",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "images/foto1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ch0muermmd",
+      "Integrity": "8LFPj4cd2KoLT4lnDvidkU8Zh99AwR4VF1komq0zFAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto2.jpg",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "images/foto2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngxq18hdoh",
+      "Integrity": "GcMYyDkTK2Ou6wJ0X1VvcdwCD7qF9Z+AQV80wNUklEY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto3.jpg",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "images/foto3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wie9r6ypi8",
+      "Integrity": "yORgEo8Fp4lqH6zTRXyl6c7aL/S/oSu9g1Z16uaWkB0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\logo.png",
+      "SourceId": "BlazorHybridSPA.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\",
+      "BasePath": "_content/BlazorHybridSPA.Shared",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rp5hq46ng8",
+      "Integrity": "0b7MxRu/GRmFLXj1a4BkEysLSuBgpPzcFsEbxOuu078=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\b3llu74eju-ouq81c4eu2.gz",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "BlazorHybridSPA#[.{fingerprint=ouq81c4eu2}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1bv72h4mw7",
+      "Integrity": "w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\i4doubqqu5-iza43yeja2.gz",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=iza43yeja2}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ckru46fwrc",
+      "Integrity": "9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\b3llu74eju-ouq81c4eu2.br",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "BlazorHybridSPA#[.{fingerprint=ouq81c4eu2}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "mee9nv3v30",
+      "Integrity": "LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\i4doubqqu5-iza43yeja2.br",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=iza43yeja2}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "be6rup4mxv",
+      "Integrity": "I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\vaah8trgd7-obgb1x923p.br",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "app#[.{fingerprint=obgb1x923p}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "wbesqdrm5g",
+      "Integrity": "dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vaah8trgd7-obgb1x923p.gz",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "app#[.{fingerprint=obgb1x923p}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vzj90oee09",
+      "Integrity": "e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "BlazorHybridSPA#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ouq81c4eu2",
+      "Integrity": "8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "obgb1x923p",
+      "Integrity": "nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html",
+      "SourceId": "BlazorHybridSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iza43yeja2",
+      "Integrity": "YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\4oheefgz09-da95v2qkru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000693000693"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\4oheefgz09-da95v2qkru.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000774593338"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\4oheefgz09-da95v2qkru.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\4oheefgz09-da95v2qkru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\4oheefgz09-da95v2qkru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000693000693"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\4oheefgz09-da95v2qkru.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000774593338"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.da95v2qkru.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\4oheefgz09-da95v2qkru.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/app.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/app.da95v2qkru.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\4oheefgz09-da95v2qkru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/app.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\9blpya3agl-js01t4bs5z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571755289"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1748"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\9blpya3agl-js01t4bs5z.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000674308833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1482"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\9blpya3agl-js01t4bs5z.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\9blpya3agl-js01t4bs5z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\9blpya3agl-js01t4bs5z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571755289"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1748"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js01t4bs5z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\9blpya3agl-js01t4bs5z.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000674308833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1482"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js01t4bs5z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js01t4bs5z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchX9gWy2RW0UzPIAtzkL688763/BSmF2uK1hz461JI="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\9blpya3agl-js01t4bs5z.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js01t4bs5z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYiOa11+vx4jI/T/Fao/nfYEksrkCBubtZpBkJIqfKI="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\9blpya3agl-js01t4bs5z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:49 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js01t4bs5z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+J6b+KqLzPElWganyLxNKd/7K9h5NIk0Ss/fulsqIok="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.bundle.scp.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\fdcjcjhdu3-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\fdcjcjhdu3-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\fdcjcjhdu3-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\fdcjcjhdu3-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\fdcjcjhdu3-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\fdcjcjhdu3-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\1wzbzw7ny7-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\1wzbzw7ny7-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\1wzbzw7ny7-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\1wzbzw7ny7-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\fdcjcjhdu3-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\fdcjcjhdu3-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\1wzbzw7ny7-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\1wzbzw7ny7-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\1wzbzw7ny7-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\1wzbzw7ny7-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\c8occnalmd-wxgamn16zq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002087682672"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "478"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\c8occnalmd-wxgamn16zq.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002785515320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\c8occnalmd-wxgamn16zq.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\c8occnalmd-wxgamn16zq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.wxgamn16zq.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\c8occnalmd-wxgamn16zq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002087682672"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "478"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxgamn16zq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/css/navbar.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.wxgamn16zq.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\c8occnalmd-wxgamn16zq.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002785515320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxgamn16zq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/css/navbar.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.wxgamn16zq.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxgamn16zq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGmgTZ9JIL2HZjhdGRulvRBrkgHguXQdUhqyABiF61A="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/css/navbar.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.wxgamn16zq.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\c8occnalmd-wxgamn16zq.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxgamn16zq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+Vz7WkVz65m3uHMY+AZg97FXbWjx6YIEm7e5VHjmCw="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/css/navbar.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/css/navbar.wxgamn16zq.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\compressed\\c8occnalmd-wxgamn16zq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxgamn16zq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OZF5+t6JSgOQBJoggHZ+U2QxNidQ+EbVolHhSANy4I="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/css/navbar.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/favicon.png"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/favicon.png",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/foto1.ch0muermmd.jpg",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14427964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LFPj4cd2KoLT4lnDvidkU8Zh99AwR4VF1komq0zFAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:06:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ch0muermmd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LFPj4cd2KoLT4lnDvidkU8Zh99AwR4VF1komq0zFAc="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/images/foto1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/foto1.jpg",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14427964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LFPj4cd2KoLT4lnDvidkU8Zh99AwR4VF1komq0zFAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:06:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LFPj4cd2KoLT4lnDvidkU8Zh99AwR4VF1komq0zFAc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/foto2.jpg",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4919694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcMYyDkTK2Ou6wJ0X1VvcdwCD7qF9Z+AQV80wNUklEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:07:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GcMYyDkTK2Ou6wJ0X1VvcdwCD7qF9Z+AQV80wNUklEY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/foto2.ngxq18hdoh.jpg",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4919694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcMYyDkTK2Ou6wJ0X1VvcdwCD7qF9Z+AQV80wNUklEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:07:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngxq18hdoh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GcMYyDkTK2Ou6wJ0X1VvcdwCD7qF9Z+AQV80wNUklEY="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/images/foto2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/foto3.jpg",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8832575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yORgEo8Fp4lqH6zTRXyl6c7aL/S/oSu9g1Z16uaWkB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:07:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yORgEo8Fp4lqH6zTRXyl6c7aL/S/oSu9g1Z16uaWkB0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/foto3.wie9r6ypi8.jpg",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8832575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yORgEo8Fp4lqH6zTRXyl6c7aL/S/oSu9g1Z16uaWkB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:07:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wie9r6ypi8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yORgEo8Fp4lqH6zTRXyl6c7aL/S/oSu9g1Z16uaWkB0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/images/foto3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/logo.png",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0b7MxRu/GRmFLXj1a4BkEysLSuBgpPzcFsEbxOuu078=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:30:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0b7MxRu/GRmFLXj1a4BkEysLSuBgpPzcFsEbxOuu078="
+        }
+      ]
+    },
+    {
+      "Route": "_content/BlazorHybridSPA.Shared/images/logo.rp5hq46ng8.png",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0b7MxRu/GRmFLXj1a4BkEysLSuBgpPzcFsEbxOuu078=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:30:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rp5hq46ng8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0b7MxRu/GRmFLXj1a4BkEysLSuBgpPzcFsEbxOuu078="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/BlazorHybridSPA.Shared/images/logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\vaah8trgd7-obgb1x923p.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005714285714"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vaah8trgd7-obgb1x923p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004219409283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\vaah8trgd7-obgb1x923p.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vaah8trgd7-obgb1x923p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\vaah8trgd7-obgb1x923p.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005714285714"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vaah8trgd7-obgb1x923p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004219409283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\vaah8trgd7-obgb1x923p.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vaah8trgd7-obgb1x923p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.ouq81c4eu2.styles.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\b3llu74eju-ouq81c4eu2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.010526315789"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouq81c4eu2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ="
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorHybridSPA.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.ouq81c4eu2.styles.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\b3llu74eju-ouq81c4eu2.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.013513513514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouq81c4eu2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ="
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorHybridSPA.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.ouq81c4eu2.styles.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouq81c4eu2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ="
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorHybridSPA.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.ouq81c4eu2.styles.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\b3llu74eju-ouq81c4eu2.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouq81c4eu2"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorHybridSPA.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.ouq81c4eu2.styles.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\b3llu74eju-ouq81c4eu2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouq81c4eu2"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorHybridSPA.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.styles.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\b3llu74eju-ouq81c4eu2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.010526315789"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.styles.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\b3llu74eju-ouq81c4eu2.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.013513513514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.styles.css",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\BlazorHybridSPA.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/BlazorHybridSPA.Shared/BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EqpED7RWoc3y8fwYlBPocPKIesJ/sQtSUhkqam4DoQ="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.styles.css.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\b3llu74eju-ouq81c4eu2.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LvRH/lvCThx+sERju2gvIhUcDpPv+0EtjAfAu2kerH0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorHybridSPA.styles.css.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\b3llu74eju-ouq81c4eu2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 14:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w39QfxciE2qfG6pQQpxYRnPCSaQlRG77/3A2iyzRxg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\i4doubqqu5-iza43yeja2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002617801047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\i4doubqqu5-iza43yeja2.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\i4doubqqu5-iza43yeja2.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\i4doubqqu5-iza43yeja2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk="
+        }
+      ]
+    },
+    {
+      "Route": "index.iza43yeja2.html",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\i4doubqqu5-iza43yeja2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002617801047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iza43yeja2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M="
+        }
+      ]
+    },
+    {
+      "Route": "index.iza43yeja2.html",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\i4doubqqu5-iza43yeja2.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iza43yeja2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M="
+        }
+      ]
+    },
+    {
+      "Route": "index.iza43yeja2.html",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iza43yeja2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqTytOLPMUTh+LYztyajMCgAerio+1LVpawSZd8hB4M="
+        }
+      ]
+    },
+    {
+      "Route": "index.iza43yeja2.html.br",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\publish\\i4doubqqu5-iza43yeja2.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iza43yeja2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/vwxLePgIMDRQergDqstJ2bVY3vXYM+eJLGdMFt/0U="
+        }
+      ]
+    },
+    {
+      "Route": "index.iza43yeja2.html.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\i4doubqqu5-iza43yeja2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 05:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iza43yeja2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MzehJPySyXblFQWE5Yt4dB4Qsm9TtWKGphbIxYbCsk="
+        }
+      ]
+    }
+  ]
+}

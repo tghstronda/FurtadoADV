@@ -1,0 +1,123 @@
+﻿@page "/"
+@inject IJSRuntime JS
+
+<PageTitle>Home</PageTitle>
+
+<!-- Barra de navegação -->
+<div class="navbar navbar-expand-lg navbar-dark" style="background-color: #040404;">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#" style="display: flex; align-items: center;">
+            <img src="/images/logo.jpg" class="d-inline-block align-text-top" style="height: 40px;" />
+            <span class="ms-2">Furtado ADV</span>
+        </a>
+        <button @onclick="ToggleMenu" class="navbar-toggler">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse @menuClass" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link active" href="#home">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#sobre">Sobre</a></li>
+                <li class="nav-item"><a class="nav-link" href="#servicos">Serviços</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- Carrossel de imagens -->
+<section id="home" class="mt-0">
+    <div class="carousel" style="position: relative; overflow: hidden;">
+        <img id="initialImage" src="/images/foto1.jpg" class="carousel-image d-block w-100"
+             alt="Imagem Atual" style="height: 400px; object-fit: cover;">
+
+        <button @onclick="ShowPreviousImage" class="carousel-control-prev"
+                style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%);">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+
+        <button @onclick="ShowNextImage" class="carousel-control-next"
+                style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%);">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
+
+@code {
+    private string currentImage = "/images/foto1.jpg";
+    private int currentIndex = 0;
+    private bool isRendered = false; // Flag para evitar erro de prerenderização
+
+    private readonly List<string> images = new()
+    {
+        "/images/foto1.jpg",
+        "/images/foto2.jpg",
+        "/images/foto3.jpg"
+    };
+
+    private async Task UpdateImage()
+    {
+        try
+        {
+            if (isRendered) // Só chama JS se o componente já estiver renderizado
+            {
+                await JS.InvokeVoidAsync("eval", $"document.getElementById('initialImage').src = '{currentImage}';");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Erro ao atualizar a imagem via JS: {ex.Message}");
+
+            // Fallback: Atualiza a imagem diretamente no C#
+            currentImage = images[currentIndex];
+            StateHasChanged(); // Força a atualização da UI
+        }
+    }
+
+
+    private async Task ShowNextImage()
+    {
+        currentIndex = (currentIndex + 1) % images.Count;
+        currentImage = images[currentIndex];
+        await UpdateImage();
+    }
+
+    private async Task ShowPreviousImage()
+    {
+        currentIndex = (currentIndex - 1 + images.Count) % images.Count;
+        currentImage = images[currentIndex];
+        await UpdateImage();
+    }
+
+    private System.Threading.Timer? autoChangeTimer;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            isRendered = true; // Habilita chamadas JS após a primeira renderização
+            await UpdateImage(); // Atualiza a imagem inicial sem erro
+
+            // Inicia o timer para trocar imagens automaticamente
+            autoChangeTimer = new System.Threading.Timer(async _ =>
+            {
+                await InvokeAsync(ShowNextImage);
+            }, null, 3000, 3000);
+        }
+    }
+
+    public void Dispose()
+    {
+        autoChangeTimer?.Dispose();
+    }
+
+    private bool isMenuOpen = false;
+    private string menuClass => isMenuOpen ? "navbar-collapse show" : "navbar-collapse";
+
+    private void ToggleMenu()
+    {
+        isMenuOpen = !isMenuOpen;
+    }
+}

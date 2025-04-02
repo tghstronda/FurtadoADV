@@ -1,0 +1,33 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+   @*  <div class="top-bar">
+        <img src="logo.png" class="logo" />
+        <button class="menu-button" @onclick="ToggleMenu">
+            ☰
+        </button>
+        <div class="menu @(menuOpen ? "open" : "")">
+            <a href="#home" @onclick="() => CloseMenu()">Home</a>
+     <a href="#sobre" @onclick="() => CloseMenu()">Sobre</a>
+            <a href="#servicos" @onclick="() => CloseMenu()">Serviços</a>
+            <a href="#contato" @onclick="() => CloseMenu()">Contato</a> 
+        </div>
+    </div> *@
+
+    <main>
+        @Body
+    </main>
+</div>
+
+<div id="blazor-error-ui" data-nosnippet>
+    An unhandled error has occurred.
+    <a href="." class="reload">Reload</a>
+    <span class="dismiss">🗙</span>
+</div>
+
+@code {
+    private bool menuOpen = false;
+
+    void ToggleMenu() => menuOpen = !menuOpen;
+    void CloseMenu() => menuOpen = false;
+}

@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorHybridSPA.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorHybridSPA.Shared.js01t4bs5z.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto1.jpg",
+      "PackagePath": "staticwebassets\\images\\foto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto2.jpg",
+      "PackagePath": "staticwebassets\\images\\foto2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\foto3.jpg",
+      "PackagePath": "staticwebassets\\images\\foto3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\old\\foto1.jpeg",
+      "PackagePath": "staticwebassets\\images\\old\\foto1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\old\\foto2.jpeg",
+      "PackagePath": "staticwebassets\\images\\old\\foto2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\old\\foto3.jpeg",
+      "PackagePath": "staticwebassets\\images\\old\\foto3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Shared\\wwwroot\\images\\old\\logo.png",
+      "PackagePath": "staticwebassets\\images\\old\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazorHybridSPA.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazorHybridSPA.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BlazorHybridSPA.Shared.props",
+      "PackagePath": "build\\BlazorHybridSPA.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorHybridSPA.Shared.props",
+      "PackagePath": "buildMultiTargeting\\BlazorHybridSPA.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BlazorHybridSPA.Shared.props",
+      "PackagePath": "buildTransitive\\BlazorHybridSPA.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

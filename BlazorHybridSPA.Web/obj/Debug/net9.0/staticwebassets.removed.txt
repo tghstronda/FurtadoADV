@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\bootstrap\bootstrap.min.css.map
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\app.css
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\favicon.png
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\images\foto1.jpeg
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\images\foto2.jpeg
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\wwwroot\images\foto3.jpg
