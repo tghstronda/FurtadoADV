@@ -1,19 +1,15 @@
 {
+  "version": 2,
   "builds": [
     {
-      "src": "BlazorHybridSPA/BlazorHybridSPA.csproj",
-      "use": "@vercel/dotnet",
-      "config": {
-        "commands": {
-          "build": "dotnet publish -c Release -o ./out"
-        }
-      }
+      "src": "Dockerfile",
+      "use": "@vercel/docker"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/out/$1"
+      "dest": "/"
     }
   ]
 }
