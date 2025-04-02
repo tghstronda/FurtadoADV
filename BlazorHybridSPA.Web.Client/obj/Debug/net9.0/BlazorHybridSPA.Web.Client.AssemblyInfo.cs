@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorHybridSPA.Web.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fcadaca5e00b8df2fb0a716bc0551dc37714770")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorHybridSPA.Web.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorHybridSPA.Web.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

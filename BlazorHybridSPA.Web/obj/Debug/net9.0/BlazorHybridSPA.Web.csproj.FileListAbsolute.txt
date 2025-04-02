@@ -53,3 +53,4 @@ C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\obj\Debug\net9.0
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\obj\Debug\net9.0\BlazorHybridSPA.Web.pdb
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\obj\Debug\net9.0\BlazorHybridSPA.Web.genruntimeconfig.cache
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\obj\Debug\net9.0\ref\BlazorHybridSPA.Web.dll
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Web\obj\Debug\net9.0\BlazorHybridSPA.Web.sourcelink.json

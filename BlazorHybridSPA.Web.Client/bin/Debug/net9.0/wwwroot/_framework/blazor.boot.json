@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorHybridSPA.Web.Client",
   "resources": {
-    "hash": "sha256-RO16ospvbjBvJfnAlWq9hRONPC7ILhXMq1jCmI/lA3I=",
+    "hash": "sha256-4i6EV5bBu7iHOtxpAYikQ8jCN7VPrsd7quhsUUcqv6w=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BlazorHybridSPA.Shared.qaddseymyt.wasm": "BlazorHybridSPA.Shared.wasm",
-      "BlazorHybridSPA.Shared.5d1m1mvc1x.pdb": "BlazorHybridSPA.Shared.pdb",
-      "BlazorHybridSPA.Web.Client.pp5hnum5uj.wasm": "BlazorHybridSPA.Web.Client.wasm",
-      "BlazorHybridSPA.Web.Client.a789mkwnjc.pdb": "BlazorHybridSPA.Web.Client.pdb"
+      "BlazorHybridSPA.Shared.a1a5u3ojfu.wasm": "BlazorHybridSPA.Shared.wasm",
+      "BlazorHybridSPA.Shared.juvunr9e2m.pdb": "BlazorHybridSPA.Shared.pdb",
+      "BlazorHybridSPA.Web.Client.8sdp64ex6h.wasm": "BlazorHybridSPA.Web.Client.wasm",
+      "BlazorHybridSPA.Web.Client.xb7dxk9mll.pdb": "BlazorHybridSPA.Web.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -414,12 +414,12 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "BlazorHybridSPA.Shared.qaddseymyt.wasm": "sha256-krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4=",
-      "BlazorHybridSPA.Web.Client.pp5hnum5uj.wasm": "sha256-03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE="
+      "BlazorHybridSPA.Shared.a1a5u3ojfu.wasm": "sha256-DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA=",
+      "BlazorHybridSPA.Web.Client.8sdp64ex6h.wasm": "sha256-CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM="
     },
     "pdb": {
-      "BlazorHybridSPA.Shared.5d1m1mvc1x.pdb": "sha256-l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0=",
-      "BlazorHybridSPA.Web.Client.a789mkwnjc.pdb": "sha256-OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk="
+      "BlazorHybridSPA.Shared.juvunr9e2m.pdb": "sha256-u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc=",
+      "BlazorHybridSPA.Web.Client.xb7dxk9mll.pdb": "sha256-o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo="
     }
   },
   "cacheBootResources": true,

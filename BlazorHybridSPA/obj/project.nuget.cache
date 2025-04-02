@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B0comyGpGhQ=",
+  "dgSpecHash": "JYDC9on7oPI=",
   "success": true,
   "projectFilePath": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA\\BlazorHybridSPA.csproj",
   "expectedPackageFiles": [
@@ -137,6 +137,10 @@
     "C:\\Users\\james\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.8.1.3\\xamarin.kotlinx.coroutines.core.jvm.1.8.1.3.nupkg.sha512",
     "C:\\Users\\james\\.nuget\\packages\\xamarin.kotlinx.serialization.core\\1.7.1.3\\xamarin.kotlinx.serialization.core.1.7.1.3.nupkg.sha512",
     "C:\\Users\\james\\.nuget\\packages\\xamarin.kotlinx.serialization.core.jvm\\1.7.1.3\\xamarin.kotlinx.serialization.core.jvm.1.7.1.3.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.3\\microsoft.netcore.app.runtime.win-x64.9.0.3.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.3.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.3\\microsoft.aspnetcore.app.runtime.win-x64.9.0.3.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\9.0.3\\microsoft.netcore.app.crossgen2.win-x64.9.0.3.nupkg.sha512",
     "C:\\Users\\james\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
   "logs": []

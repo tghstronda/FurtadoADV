@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/M9ECpvffk8Hg8hKSU5Y0AGWCzsR/ZA/UBQZFd/XDmQ=",
+  "Hash": "z0E9AH+R3pPi5uUuUnXTYQ33Ob5xr92rt9ubDY1/hrU=",
   "Source": "BlazorHybridSPA.Web",
   "BasePath": "_content/BlazorHybridSPA.Web",
   "Mode": "Default",
@@ -467,8 +467,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "gtg9vf0fdw",
-      "Integrity": "nGecdqBmTVbs1oIkr0d4X5VOuUyO9qR1dSvtv2qRoiM=",
+      "Fingerprint": "7bm0akhgnf",
+      "Integrity": "85p8gS+LrXcrHbc6CCfjWEIAvuyBv6tjU6UKh4GqgqI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -509,8 +509,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "5d1m1mvc1x",
-      "Integrity": "l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0=",
+      "Fingerprint": "juvunr9e2m",
+      "Integrity": "u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.pdb"
@@ -530,8 +530,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "qaddseymyt",
-      "Integrity": "krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4=",
+      "Fingerprint": "a1a5u3ojfu",
+      "Integrity": "DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.wasm"
@@ -551,8 +551,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "a789mkwnjc",
-      "Integrity": "OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk=",
+      "Fingerprint": "xb7dxk9mll",
+      "Integrity": "o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.pdb"
@@ -572,8 +572,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "pp5hnum5uj",
-      "Integrity": "03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE=",
+      "Fingerprint": "8sdp64ex6h",
+      "Integrity": "CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.wasm"
@@ -5262,12 +5262,12 @@
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2znszejaj7-j6du5khfyp.gz"
     },
     {
-      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-pp5hnum5uj.gz",
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-8sdp64ex6h.gz",
       "SourceId": "BlazorHybridSPA.Web.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorHybridSPA.Web.Client#[.{fingerprint=pp5hnum5uj}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorHybridSPA.Web.Client#[.{fingerprint=8sdp64ex6h}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5276,11 +5276,11 @@
       "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "el8sjodf80",
-      "Integrity": "gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss=",
+      "Fingerprint": "zbl7plh469",
+      "Integrity": "v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-pp5hnum5uj.gz"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-8sdp64ex6h.gz"
     },
     {
       "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\3ej408rkrq-ailofr3xg4.gz",
@@ -5619,12 +5619,12 @@
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\6q7fstmrnw-q4j9ve32z8.gz"
     },
     {
-      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-5d1m1mvc1x.gz",
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-juvunr9e2m.gz",
       "SourceId": "BlazorHybridSPA.Web.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorHybridSPA.Shared#[.{fingerprint=5d1m1mvc1x}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorHybridSPA.Shared#[.{fingerprint=juvunr9e2m}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5633,11 +5633,11 @@
       "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7kfv4plhbb",
-      "Integrity": "eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE=",
+      "Fingerprint": "18jlgq6gsm",
+      "Integrity": "kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-5d1m1mvc1x.gz"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-juvunr9e2m.gz"
     },
     {
       "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\712md6mvzq-vtcexxwpo3.gz",
@@ -6438,12 +6438,12 @@
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cotjioobvd-pvxa4wu5tg.gz"
     },
     {
-      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-qaddseymyt.gz",
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-a1a5u3ojfu.gz",
       "SourceId": "BlazorHybridSPA.Web.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorHybridSPA.Shared#[.{fingerprint=qaddseymyt}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorHybridSPA.Shared#[.{fingerprint=a1a5u3ojfu}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6452,11 +6452,11 @@
       "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5f4r8et4rl",
-      "Integrity": "3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE=",
+      "Fingerprint": "gfh2mb1h8g",
+      "Integrity": "vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-qaddseymyt.gz"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-a1a5u3ojfu.gz"
     },
     {
       "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\d15k7rpu3q-i52kdwx1wz.gz",
@@ -7005,12 +7005,12 @@
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\hhe0ulvysb-5bvshcz8rs.gz"
     },
     {
-      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-a789mkwnjc.gz",
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-xb7dxk9mll.gz",
       "SourceId": "BlazorHybridSPA.Web.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorHybridSPA.Web.Client#[.{fingerprint=a789mkwnjc}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorHybridSPA.Web.Client#[.{fingerprint=xb7dxk9mll}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7019,11 +7019,11 @@
       "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "v0dvp9emai",
-      "Integrity": "rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk=",
+      "Fingerprint": "glkdaq5j1n",
+      "Integrity": "fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-a789mkwnjc.gz"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-xb7dxk9mll.gz"
     },
     {
       "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\hytvqx71k7-9v4eqey3ns.gz",
@@ -7425,7 +7425,7 @@
       "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ko2lok4twb-rz2l0yjrdh.gz"
     },
     {
-      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-gtg9vf0fdw.gz",
+      "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-7bm0akhgnf.gz",
       "SourceId": "BlazorHybridSPA.Web.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -7439,11 +7439,11 @@
       "RelatedAsset": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "z96k3jvaon",
-      "Integrity": "x9s6lfU6yed/WlvHd6s/IrovCPlsHkGre6rjtjYvxhc=",
+      "Fingerprint": "vaff2ce3up",
+      "Integrity": "yXKCJ21uvoW0QopV2H+2j1r69t8jXT21qEB/zkrzPqw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-gtg9vf0fdw.gz"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-7bm0akhgnf.gz"
     },
     {
       "Identity": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\kvoxdd5zu3-zmf0gmcpmv.gz",
@@ -11693,28 +11693,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nGecdqBmTVbs1oIkr0d4X5VOuUyO9qR1dSvtv2qRoiM=\""
+          "Value": "\"85p8gS+LrXcrHbc6CCfjWEIAvuyBv6tjU6UKh4GqgqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nGecdqBmTVbs1oIkr0d4X5VOuUyO9qR1dSvtv2qRoiM="
+          "Value": "sha256-85p8gS+LrXcrHbc6CCfjWEIAvuyBv6tjU6UKh4GqgqI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-gtg9vf0fdw.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-7bm0akhgnf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079795723"
+          "Quality": "0.000079821201"
         }
       ],
       "ResponseHeaders": [
@@ -11732,15 +11732,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12531"
+          "Value": "12527"
         },
         {
           "Name": "ETag",
-          "Value": "\"x9s6lfU6yed/WlvHd6s/IrovCPlsHkGre6rjtjYvxhc=\""
+          "Value": "\"yXKCJ21uvoW0QopV2H+2j1r69t8jXT21qEB/zkrzPqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
+          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
         },
         {
           "Name": "Vary",
@@ -11752,19 +11752,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nGecdqBmTVbs1oIkr0d4X5VOuUyO9qR1dSvtv2qRoiM=\""
+          "Value": "W/\"85p8gS+LrXcrHbc6CCfjWEIAvuyBv6tjU6UKh4GqgqI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nGecdqBmTVbs1oIkr0d4X5VOuUyO9qR1dSvtv2qRoiM="
+          "Value": "sha256-85p8gS+LrXcrHbc6CCfjWEIAvuyBv6tjU6UKh4GqgqI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-gtg9vf0fdw.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\ksuc48bslb-7bm0akhgnf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11781,7 +11781,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12531"
+          "Value": "12527"
         },
         {
           "Name": "Content-Type",
@@ -11789,11 +11789,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x9s6lfU6yed/WlvHd6s/IrovCPlsHkGre6rjtjYvxhc=\""
+          "Value": "\"yXKCJ21uvoW0QopV2H+2j1r69t8jXT21qEB/zkrzPqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
+          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
         },
         {
           "Name": "Vary",
@@ -11803,7 +11803,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x9s6lfU6yed/WlvHd6s/IrovCPlsHkGre6rjtjYvxhc="
+          "Value": "sha256-yXKCJ21uvoW0QopV2H+2j1r69t8jXT21qEB/zkrzPqw="
         }
       ]
     },
@@ -11945,7 +11945,168 @@
       ]
     },
     {
-      "Route": "_framework/BlazorHybridSPA.Shared.5d1m1mvc1x.pdb",
+      "Route": "_framework/BlazorHybridSPA.Shared.a1a5u3ojfu.wasm",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1a5u3ojfu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorHybridSPA.Shared.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Shared.a1a5u3ojfu.wasm",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-a1a5u3ojfu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000113237459"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8830"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1a5u3ojfu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorHybridSPA.Shared.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Shared.a1a5u3ojfu.wasm.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-a1a5u3ojfu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1a5u3ojfu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorHybridSPA.Shared.wasm.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Shared.juvunr9e2m.pdb",
       "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11959,7 +12120,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23900"
+          "Value": "24848"
         },
         {
           "Name": "Content-Type",
@@ -11967,21 +12128,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0=\""
+          "Value": "\"u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:11 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5d1m1mvc1x"
+          "Value": "juvunr9e2m"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0="
+          "Value": "sha256-u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc="
         },
         {
           "Name": "label",
@@ -11990,13 +12151,13 @@
       ]
     },
     {
-      "Route": "_framework/BlazorHybridSPA.Shared.5d1m1mvc1x.pdb",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-5d1m1mvc1x.gz",
+      "Route": "_framework/BlazorHybridSPA.Shared.juvunr9e2m.pdb",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-juvunr9e2m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000056363431"
+          "Quality": "0.000053789468"
         }
       ],
       "ResponseHeaders": [
@@ -12014,15 +12175,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17741"
+          "Value": "18590"
         },
         {
           "Name": "ETag",
-          "Value": "\"eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE=\""
+          "Value": "\"kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12034,17 +12195,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0=\""
+          "Value": "W/\"u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5d1m1mvc1x"
+          "Value": "juvunr9e2m"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0="
+          "Value": "sha256-u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc="
         },
         {
           "Name": "label",
@@ -12053,8 +12214,8 @@
       ]
     },
     {
-      "Route": "_framework/BlazorHybridSPA.Shared.5d1m1mvc1x.pdb.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-5d1m1mvc1x.gz",
+      "Route": "_framework/BlazorHybridSPA.Shared.juvunr9e2m.pdb.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-juvunr9e2m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12071,7 +12232,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17741"
+          "Value": "18590"
         },
         {
           "Name": "Content-Type",
@@ -12079,11 +12240,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE=\""
+          "Value": "\"kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12093,11 +12254,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5d1m1mvc1x"
+          "Value": "juvunr9e2m"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE="
+          "Value": "sha256-kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY="
         },
         {
           "Name": "label",
@@ -12120,7 +12281,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23900"
+          "Value": "24848"
         },
         {
           "Name": "Content-Type",
@@ -12128,28 +12289,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0=\""
+          "Value": "\"u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:11 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0="
+          "Value": "sha256-u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc="
         }
       ]
     },
     {
       "Route": "_framework/BlazorHybridSPA.Shared.pdb",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-5d1m1mvc1x.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-juvunr9e2m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000056363431"
+          "Quality": "0.000053789468"
         }
       ],
       "ResponseHeaders": [
@@ -12167,15 +12328,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17741"
+          "Value": "18590"
         },
         {
           "Name": "ETag",
-          "Value": "\"eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE=\""
+          "Value": "\"kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12187,19 +12348,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0=\""
+          "Value": "W/\"u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-l6aZj+ytMMe5kignKjDJaC2Y5plVYMebF3h6FxmgMr0="
+          "Value": "sha256-u8+Ln/JW4vQd3BgbSTvWjAra3mdwD3W3CJjh1nNJhpc="
         }
       ]
     },
     {
       "Route": "_framework/BlazorHybridSPA.Shared.pdb.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-5d1m1mvc1x.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\70icnsy2l9-juvunr9e2m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12216,7 +12377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17741"
+          "Value": "18590"
         },
         {
           "Name": "Content-Type",
@@ -12224,11 +12385,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE=\""
+          "Value": "\"kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12238,168 +12399,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eYdzm03KkkDpKB6UO5ZrKoiIGVdL0Vr5B4EtPtpXdEE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Shared.qaddseymyt.wasm",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Shared.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21781"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qaddseymyt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorHybridSPA.Shared.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Shared.qaddseymyt.wasm",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-qaddseymyt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000114534418"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8730"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qaddseymyt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorHybridSPA.Shared.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Shared.qaddseymyt.wasm.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-qaddseymyt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8730"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qaddseymyt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorHybridSPA.Shared.wasm.gz"
+          "Value": "sha256-kWyApq3hdCUlvG4/kfBivorKwv8FWoRVCoWYxd51sbY="
         }
       ]
     },
@@ -12426,28 +12426,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4=\""
+          "Value": "\"DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4="
+          "Value": "sha256-DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorHybridSPA.Shared.wasm",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-qaddseymyt.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-a1a5u3ojfu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000114534418"
+          "Quality": "0.000113237459"
         }
       ],
       "ResponseHeaders": [
@@ -12465,15 +12465,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8730"
+          "Value": "8830"
         },
         {
           "Name": "ETag",
-          "Value": "\"3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE=\""
+          "Value": "\"vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12485,19 +12485,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4=\""
+          "Value": "W/\"DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-krjrszh4d/RmGgEaeE70lhh+AHIfNIeOUIIVMWXwRm4="
+          "Value": "sha256-DszzjPIHX/gmxCFhbE7Ut6DbpVwtiWE5h6HORN/QJlA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorHybridSPA.Shared.wasm.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-qaddseymyt.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\cwarug51jf-a1a5u3ojfu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12514,7 +12514,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8730"
+          "Value": "8830"
         },
         {
           "Name": "Content-Type",
@@ -12522,11 +12522,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE=\""
+          "Value": "\"vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:09:15 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12536,310 +12536,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3+Atc4dPMJfRY8Cmg1TLnY8N/e8ZCyP4HgvGrLZtsFE="
+          "Value": "sha256-vPYDm1GQ+W1NYXOjFXhcQl3mojgLRUQW1aOHVel4cSw="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.a789mkwnjc.pdb",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13836"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:12 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a789mkwnjc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorHybridSPA.Web.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.a789mkwnjc.pdb",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-a789mkwnjc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000122940743"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8133"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a789mkwnjc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorHybridSPA.Web.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.a789mkwnjc.pdb.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-a789mkwnjc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a789mkwnjc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorHybridSPA.Web.Client.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.pdb",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13836"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:12 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.pdb",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-a789mkwnjc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000122940743"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8133"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OgjUMLOwGZCbrp6tcAE8m7MCrXZ/ch/pFR+Mtyv2sTk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-a789mkwnjc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rzA1ZW0ztP9SahT896PfGIEtf75+cgZm/oN61IpqTpk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.pp5hnum5uj.wasm",
+      "Route": "_framework/BlazorHybridSPA.Web.Client.8sdp64ex6h.wasm",
       "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12853,7 +12555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6933"
+          "Value": "7445"
         },
         {
           "Name": "Content-Type",
@@ -12861,21 +12563,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE=\""
+          "Value": "\"CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:12 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pp5hnum5uj"
+          "Value": "8sdp64ex6h"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE="
+          "Value": "sha256-CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM="
         },
         {
           "Name": "label",
@@ -12884,13 +12586,13 @@
       ]
     },
     {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.pp5hnum5uj.wasm",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-pp5hnum5uj.gz",
+      "Route": "_framework/BlazorHybridSPA.Web.Client.8sdp64ex6h.wasm",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-8sdp64ex6h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000340367597"
+          "Quality": "0.000329380764"
         }
       ],
       "ResponseHeaders": [
@@ -12908,15 +12610,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2937"
+          "Value": "3035"
         },
         {
           "Name": "ETag",
-          "Value": "\"gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss=\""
+          "Value": "\"v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12928,17 +12630,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE=\""
+          "Value": "W/\"CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pp5hnum5uj"
+          "Value": "8sdp64ex6h"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE="
+          "Value": "sha256-CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM="
         },
         {
           "Name": "label",
@@ -12947,8 +12649,8 @@
       ]
     },
     {
-      "Route": "_framework/BlazorHybridSPA.Web.Client.pp5hnum5uj.wasm.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-pp5hnum5uj.gz",
+      "Route": "_framework/BlazorHybridSPA.Web.Client.8sdp64ex6h.wasm.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-8sdp64ex6h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12965,7 +12667,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2937"
+          "Value": "3035"
         },
         {
           "Name": "Content-Type",
@@ -12973,11 +12675,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss=\""
+          "Value": "\"v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -12987,11 +12689,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pp5hnum5uj"
+          "Value": "8sdp64ex6h"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss="
+          "Value": "sha256-v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA="
         },
         {
           "Name": "label",
@@ -13000,6 +12702,143 @@
       ]
     },
     {
+      "Route": "_framework/BlazorHybridSPA.Web.Client.pdb",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Web.Client.pdb",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-xb7dxk9mll.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000110901630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9016"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Web.Client.pdb.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-xb7dxk9mll.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I="
+        }
+      ]
+    },
+    {
       "Route": "_framework/BlazorHybridSPA.Web.Client.wasm",
       "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.wasm",
       "Selectors": [],
@@ -13014,7 +12853,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6933"
+          "Value": "7445"
         },
         {
           "Name": "Content-Type",
@@ -13022,28 +12861,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE=\""
+          "Value": "\"CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:12 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE="
+          "Value": "sha256-CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM="
         }
       ]
     },
     {
       "Route": "_framework/BlazorHybridSPA.Web.Client.wasm",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-pp5hnum5uj.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-8sdp64ex6h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000340367597"
+          "Quality": "0.000329380764"
         }
       ],
       "ResponseHeaders": [
@@ -13061,15 +12900,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2937"
+          "Value": "3035"
         },
         {
           "Name": "ETag",
-          "Value": "\"gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss=\""
+          "Value": "\"v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -13081,19 +12920,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE=\""
+          "Value": "W/\"CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-03nagaEf7hvuXHEI3pYTL4BmZQM6zsZ0Huc0dg4CRBE="
+          "Value": "sha256-CIhZIqZxCFcVOVjVUd1Tol6Zb1U7oWyIOTFAOgONGyM="
         }
       ]
     },
     {
       "Route": "_framework/BlazorHybridSPA.Web.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-pp5hnum5uj.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\2zynmu81fe-8sdp64ex6h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13110,7 +12949,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2937"
+          "Value": "3035"
         },
         {
           "Name": "Content-Type",
@@ -13118,11 +12957,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss=\""
+          "Value": "\"v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:06:14 GMT"
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
         },
         {
           "Name": "Vary",
@@ -13132,7 +12971,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gv1LJc0XGRJ8tzdWhKWCEkmJx+rUJ/DQ8+cHs5EITss="
+          "Value": "sha256-v6RINQgUYco1XMZjRf4C78KWqAlFwWP/A/wyU3/qhRA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Web.Client.xb7dxk9mll.pdb",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorHybridSPA.Web.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7dxk9mll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorHybridSPA.Web.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Web.Client.xb7dxk9mll.pdb",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-xb7dxk9mll.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000110901630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9016"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7dxk9mll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/iZtqkko43zztK5+2Iq+jGv2ptYnvGDyF3gFnXgOlo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorHybridSPA.Web.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorHybridSPA.Web.Client.xb7dxk9mll.pdb.gz",
+      "AssetFile": "C:\\Users\\james\\source\\repos\\BlazorHybridSPA\\BlazorHybridSPA.Web.Client\\obj\\Debug\\net9.0\\compressed\\howtm7vhd3-xb7dxk9mll.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 02:54:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7dxk9mll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFSach5oxQKRqQNqR7WNgiyx62sL83N01nINlFSxl0I="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorHybridSPA.Web.Client.pdb.gz"
         }
       ]
     },

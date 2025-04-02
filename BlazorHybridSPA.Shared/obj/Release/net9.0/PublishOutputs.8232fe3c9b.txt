@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\BlazorHybridSPA\publish\BlazorHybridSPA.Shared.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\BlazorHybridSPA.Shared.deps.json
+C:\Users\james\source\repos\BlazorHybridSPA\publish\BlazorHybridSPA.Shared.pdb
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.AspNetCore.Authorization.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.AspNetCore.Components.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.AspNetCore.Metadata.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.Extensions.Options.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\james\source\repos\BlazorHybridSPA\publish\Microsoft.JSInterop.dll

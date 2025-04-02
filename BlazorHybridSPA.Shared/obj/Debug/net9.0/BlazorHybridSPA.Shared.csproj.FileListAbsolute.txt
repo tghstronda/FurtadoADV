@@ -32,3 +32,4 @@ C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\BlazorHybridSPA.Shared.pdb
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\ref\BlazorHybridSPA.Shared.dll
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\compressed\c8occnalmd-8u4lcmb4lz.gz
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\BlazorHybridSPA.Shared.sourcelink.json

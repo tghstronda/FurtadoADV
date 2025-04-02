@@ -41,3 +41,4 @@ C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\james\source\repos\BlazorHybridSPA\BlazorHybridSPA.Shared\obj\Debug\net9.0\staticwebassets.build.json
